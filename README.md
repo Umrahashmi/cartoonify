@@ -24,7 +24,7 @@ This project converts real-world images into cartoon-style visuals using **Compu
 ## Sample Output
 Original Image             |  Cartoonified Image
 :-------------------------:|:-------------------------:
-![Original](sample_original.jpg) | ![Cartoon](sample_cartoon.jpg)
+![Original](1.webp) | ![Cartoon](cartoon.png)
 
 ## Applications
 - Fun photo filters for apps.
